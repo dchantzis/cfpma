@@ -1,0 +1,6 @@
+# Ignore specifications folder
+_specifications/
+
+# Ignore Thumbs.db and DS_Store
+._DS_Store
+Thumbs.db
